@@ -5,11 +5,11 @@ repo: uptime-dev # The name of this repository
 sites:
   - name: "azuma Zero Trust Gateway"
     url: https://dev.azuma-health.tech/health/gateway
-  - name: "azuma SSO: Identity Service"
+  - name: "azuma doa: Identity Service"
     url: https://dev.azuma-health.tech/health/sso-identity
-  - name: "azuma SSO: Permissions & Access Control"
+  - name: "azuma doa: Permissions & Access Control"
     url: https://dev.azuma-health.tech/health/sso-acl
-  - name: "azuma SSO: OAuth 2.0 and OpenID Connect Provider"
+  - name: "azuma doa: OAuth 2.0 and OpenID Connect Provider"
     url: https://dev.azuma-health.tech/health/sso-oidc
   - name: "azuma: Mailing Service"
     url: https://dev.azuma-health.tech/health/mailing
