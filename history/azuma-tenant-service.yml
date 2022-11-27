@@ -1,7 +1,7 @@
 url: https://dev.azuma-health.tech/health/tenant
-status: up
-code: 200
-responseTime: 8715
-lastUpdated: 2022-11-26T23:02:36.040Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-11-27T08:18:29.775Z
 startTime: Wed Oct 12 2022 16:30:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
