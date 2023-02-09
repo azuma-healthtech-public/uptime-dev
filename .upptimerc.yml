@@ -3,18 +3,22 @@ owner: azuma-healthtech # Your GitHub organization or username, where this repos
 repo: uptime-dev # The name of this repository
 
 sites:
-  - name: "azuma Zero Trust Gateway"
-    url: https://dev.azuma-health.tech/health/gateway
+  - name: "azuma: API"
+    url: https://develop.azuma-health.tech/health/doa-gateway
+  - name: "azuma: Zero Trust Gateway"
+    url: https://develop.azuma-health.tech/health/gateway
   - name: "azuma doa: Identity Service"
-    url: https://dev.azuma-health.tech/health/sso-identity
+    url: https://develop.azuma-health.tech/health/doa-idp
   - name: "azuma doa: Permissions & Access Control"
-    url: https://dev.azuma-health.tech/health/sso-acl
+    url: https://develop.azuma-health.tech/health/doa-acl
   - name: "azuma doa: OAuth 2.0 and OpenID Connect Provider"
-    url: https://dev.azuma-health.tech/health/sso-oidc
-  - name: "azuma: Mailing Service"
-    url: https://dev.azuma-health.tech/health/mailing
-  - name: "azuma: Tenant Service"
-    url: https://dev.azuma-health.tech/health/tenant
+    url: https://develop.azuma-health.tech/health/doa-oidc
+  - name: "azuma doa: Tenant & Organization Service"
+    url: https://develop.azuma-health.tech/health/doa-organization
+  - name: "azuma doa: Administration Service"
+    url: https://develop.azuma-health.tech/health/doa-admin
+  - name: "azuma doa: Mailing Service"
+    url: https://develop.azuma-health.tech/health/doa-mailing
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
