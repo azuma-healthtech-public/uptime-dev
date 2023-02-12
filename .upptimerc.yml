@@ -1,5 +1,5 @@
 # Change these first
-owner: azuma-healthtech # Your GitHub organization or username, where this repository lives
+owner: azuma-healthtech-public # Your GitHub organization or username, where this repository lives
 repo: uptime-dev # The name of this repository
 
 sites:
@@ -25,9 +25,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dev.azuma-health.tech
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/azuma-healthtech/uptime-dev/master/assets/logo-1.svg
-  name: azuma Status
-  introTitle: "**azuma** Status"
+  logoUrl: https://raw.githubusercontent.com/azuma-healthtech-public/uptime-dev/master/assets/logo-1.svg
+  name: azuma Status (DEV)
+  introTitle: "**azuma** Status (DEV)"
   introMessage: This is an overview page, which uses **real-time** data to display live service status, maintenance windows as well as active and past incidents.
   navbar:
     - title: Status
