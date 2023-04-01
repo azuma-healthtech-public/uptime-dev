@@ -1,7 +1,7 @@
 url: https://develop.azuma-health.tech/health/doa-gateway
-status: down
-code: 404
-responseTime: 5399
-lastUpdated: 2023-04-01T16:07:44.188Z
+status: up
+code: 200
+responseTime: 16441
+lastUpdated: 2023-04-01T23:02:11.037Z
 startTime: Thu Feb 09 2023 21:17:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
