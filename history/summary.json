@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/develop.azuma-health.tech.ico",
     "slug": "azuma-api",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
-    "time": 14539,
-    "timeDay": 16130,
-    "timeWeek": 16110,
-    "timeMonth": 16174,
-    "timeYear": 14539,
+    "uptimeYear": "99.71%",
+    "time": 14542,
+    "timeDay": 15650,
+    "timeWeek": 16095,
+    "timeMonth": 16151,
+    "timeYear": 14542,
     "dailyMinutesDown": {
       "2023-12-17": 38,
       "2023-12-16": 57,
@@ -42,11 +42,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.01%",
-    "time": 1319,
+    "uptimeYear": "96.21%",
+    "time": 1317,
     "timeDay": 72,
-    "timeWeek": 77,
-    "timeMonth": 105,
+    "timeWeek": 75,
+    "timeMonth": 103,
     "timeYear": 97,
     "dailyMinutesDown": {
       "2023-02-09": 1278,
@@ -61,8 +61,7 @@
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
-      "2023-01-28": 1440,
-      "2023-01-27": 1440
+      "2023-01-28": 1440
     }
   },
   {
@@ -76,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 88,
-    "timeWeek": 98,
-    "timeMonth": 426,
-    "timeYear": 732,
+    "time": 725,
+    "timeDay": 99,
+    "timeWeek": 96,
+    "timeMonth": 424,
+    "timeYear": 725,
     "dailyMinutesDown": {}
   },
   {
@@ -89,16 +88,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/develop.azuma-health.tech.ico",
     "slug": "azuma-doa-identity-service",
     "status": "up",
-    "uptime": "96.30%",
+    "uptime": "96.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.82%",
-    "time": 7315,
-    "timeDay": 8571,
-    "timeWeek": 8852,
-    "timeMonth": 8791,
-    "timeYear": 7619,
+    "uptimeYear": "96.01%",
+    "time": 7317,
+    "timeDay": 8376,
+    "timeWeek": 8822,
+    "timeMonth": 8784,
+    "timeYear": 7621,
     "dailyMinutesDown": {
       "2023-02-25": 969,
       "2023-02-24": 56,
@@ -114,8 +113,7 @@
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
-      "2023-01-28": 1440,
-      "2023-01-27": 1440
+      "2023-01-28": 1440
     }
   },
   {
@@ -124,14 +122,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/develop.azuma-health.tech.ico",
     "slug": "azuma-doa-permissions-and-access-control",
     "status": "up",
-    "uptime": "96.30%",
+    "uptime": "96.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.82%",
-    "time": 4639,
-    "timeDay": 5186,
-    "timeWeek": 5297,
+    "uptimeYear": "96.01%",
+    "time": 4640,
+    "timeDay": 4961,
+    "timeWeek": 5330,
     "timeMonth": 5382,
     "timeYear": 4986,
     "dailyMinutesDown": {
@@ -149,8 +147,7 @@
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
-      "2023-01-28": 1440,
-      "2023-01-27": 1440
+      "2023-01-28": 1440
     }
   },
   {
@@ -159,16 +156,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/develop.azuma-health.tech.ico",
     "slug": "azuma-doa-o-auth-2-0-and-open-id-connect-provider",
     "status": "up",
-    "uptime": "96.37%",
+    "uptime": "96.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.90%",
-    "time": 4514,
-    "timeDay": 5343,
-    "timeWeek": 5238,
-    "timeMonth": 5385,
-    "timeYear": 4946,
+    "uptimeYear": "96.10%",
+    "time": 4515,
+    "timeDay": 4732,
+    "timeWeek": 5159,
+    "timeMonth": 5351,
+    "timeYear": 4945,
     "dailyMinutesDown": {
       "2023-02-25": 493,
       "2023-02-24": 53,
@@ -184,8 +181,7 @@
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
-      "2023-01-28": 1440,
-      "2023-01-27": 1440
+      "2023-01-28": 1440
     }
   },
   {
@@ -201,8 +197,8 @@
     "uptimeYear": "100.00%",
     "time": 97,
     "timeDay": 73,
-    "timeWeek": 78,
-    "timeMonth": 107,
+    "timeWeek": 76,
+    "timeMonth": 105,
     "timeYear": 97,
     "dailyMinutesDown": {}
   },
@@ -218,7 +214,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 6678,
-    "timeDay": 5949,
+    "timeDay": 6583,
     "timeWeek": 7081,
     "timeMonth": 6672,
     "timeYear": 6678,
@@ -241,9 +237,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7281,
-    "timeDay": 7730,
-    "timeWeek": 7462,
-    "timeMonth": 7697,
+    "timeDay": 7238,
+    "timeWeek": 7477,
+    "timeMonth": 7686,
     "timeYear": 7281,
     "dailyMinutesDown": {}
   }
