@@ -158,9 +158,9 @@
     "slug": "azuma-doa-mailing-service",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 7381,
     "timeDay": 24596,
@@ -168,7 +168,7 @@
     "timeMonth": 7892,
     "timeYear": 7451,
     "dailyMinutesDown": {
-      "2024-05-09": 0
+      "2024-05-09": 18
     }
   }
 ]
