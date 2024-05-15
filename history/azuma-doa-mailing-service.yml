@@ -1,7 +1,7 @@
 url: https://develop.azuma-health.tech/health/doa-mailing
-status: up
-code: 200
-responseTime: 7568
-lastUpdated: 2024-05-14T23:03:31.190Z
+status: down
+code: 404
+responseTime: 117
+lastUpdated: 2024-05-15T16:09:19.310Z
 startTime: 2023-02-09T21:17:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
